@@ -1,0 +1,17 @@
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\2013105497-PER.dll.config
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\2013105497-PER.dll
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\2013105497-PER.pdb
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\2013105497-ENT.dll
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\EntityFramework.dll
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\2013105497-ENT.pdb
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\EntityFramework.xml
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\2013105497-PER.csprojResolveAssemblyReference.cache
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\_2013105497_PER.Migrations.InitialModel.resources
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\_2013105497_PER.Migrations.InitialModel2.resources
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\_2013105497_PER.Migrations.InitialModel4.resources
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\_2013105497_PER.Migrations.InitialModel5.resources
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\2013105497-PER.csproj.GenerateResource.Cache
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\2013105497-PER.dll
+C:\Users\Ennio\Desktop\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2013105497-PER\obj\Debug\2013105497-PER.pdb
